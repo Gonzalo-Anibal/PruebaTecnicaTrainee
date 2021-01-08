@@ -8,9 +8,12 @@ Consideraciones importantes:
 
 ● No esperamos a que sea exactamente igual en términos visuales y de experiencia
 de usuario, con que se parezca está bien.
+
 ● Toma en cuenta la fecha de límite de entrega para priorizar los cambios que hagas
+
 ● Se debe poder completar una compra usando transferencia como medio de pago
 (check)
+
 ● La aplicación debe funcionar usando una base de datos PostgreSQL (no importa la
 versión)
 
